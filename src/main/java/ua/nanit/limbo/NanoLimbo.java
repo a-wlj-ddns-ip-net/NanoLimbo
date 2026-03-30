@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2020 Nan1t
+ * Copyright (C) 2020 Nan1
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
